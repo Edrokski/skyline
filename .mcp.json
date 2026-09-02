@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "autosprite": {
+      "type": "http",
+      "url": "https://www.autosprite.io/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AUTOSPRITE_TOKEN}"
+      }
+    }
+  }
+}
